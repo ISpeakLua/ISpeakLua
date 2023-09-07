@@ -1,4 +1,17 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=13F76C&center=true&width=435&lines=%3Edauser;%3Eok;%3Esomething+else;%3Edoing+stuff)](https://git.io/typing-svg)
+
+Just a random programmer idk
+- Lua
+- JavaScript
+- Python
+- Mid HTML
+- Mid CSS
+- Starter C++
+- Starter C#
+  
+[![@dauser](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)]()
+
 
 <!--
 **ISpeakLua/ISpeakLua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
