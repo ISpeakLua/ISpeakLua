@@ -10,8 +10,6 @@ Just a random programmer idk
 - Starter C++
 - Starter C#
 
-
-
 <!--
 **ISpeakLua/ISpeakLua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
