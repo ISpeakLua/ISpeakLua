@@ -9,8 +9,7 @@ Just a random programmer idk
 - Mid CSS
 - Starter C++
 - Starter C#
-  
-[![@dauser](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)]()
+
 
 
 <!--
